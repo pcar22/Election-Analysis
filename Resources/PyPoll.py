@@ -44,7 +44,7 @@ with open(file_to_load) as election_data:
         # Begin tracking the candidates vote count. 
             candidate_votes[candidate_name] = 0
             #Add a vote to that candidate's count. Line up with if statement to increment each "candidates vote
-            candidate_votes[candidate_name] += 1
+        candidate_votes[candidate_name] += 1
         
 with open(file_to_save, "w") as txt_file:
     election_results = (
