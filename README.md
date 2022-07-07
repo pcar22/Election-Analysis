@@ -8,6 +8,9 @@ Seth , a Colorado Board of Elections employee has given me the following tasks t
 3. Calculate the total number of votes each candidate won.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote. 
+6. The voter turnout for each county.
+7. The percentage of votes from each county out of the total count.
+8. The county with the highest turnout.
 
 ## Resources
 - Data Source: election_results.csv
@@ -26,6 +29,9 @@ The analysis of the election show that:
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+The voter turnout for each county, percentage of votes from county out of the total count, and the county with the highest turnout are shown in the image below. This was accomplished using a for loop and conditional statements to print the results from the election_results.csv file provided. A text file is saved in the analysis folder as election_analysis.txt.
+
+
 
 ## Challenge Overview
 A script was written using Python, this script is written to pull information from the election_results.csv file provided. In this script we can extract the information needed to do get the candidate, county and number of votes. Calculations are done to total votes and percentages. 
