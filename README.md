@@ -31,7 +31,7 @@ The analysis of the election show that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 The voter turnout for each county, percentage of votes from county out of the total count, and the county with the highest turnout are shown in the image below. This was accomplished using a for loop and conditional statements to print the results from the election_results.csv file provided. A text file is saved in the analysis folder as election_analysis.txt.
 
-
+![county_votes](https://github.com/pcar22/Election-Analysis/blob/main/Resources/county_votes.png)
 
 ## Challenge Overview
 A script was written using Python, this script is written to pull information from the election_results.csv file provided. In this script we can extract the information needed to do get the candidate, county and number of votes. Calculations are done to total votes and percentages. 
