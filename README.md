@@ -38,4 +38,4 @@ The analysis of the election show that:
 ## Challenge Overview
 A script was written using Python, this script is written to pull information from the election_results.csv file provided. In this script we can extract the information needed to do get the candidate, county and number of votes. Calculations are done to total votes and percentages. 
 ## Challenge Summary
-The PyPoll.py script is a great tool to use to reveal critical data. This is a great tool to use on other election data. With some modifications this script can extract other information to produce different reports.   
+The PyPoll.py script is a great tool to use to reveal critical data. This is a great tool to use on other election data. With some modifications this script can extract other information to produce different reports.  We could write another conditional statement to determine what percentage of each county for voted for a candidate. 
