@@ -63,8 +63,8 @@ with open(file_to_save, "w") as txt_file:
         print(candidate_results)
        # Save the candidate results to our text file.
         txt_file.write(candidate_results)
-       # Print each candidate, their voter count, and percentage to the terminal.
-       # print(f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n") # Commented out this line to write the results
+       
+       
            # Determine winning vote count, winning percentage, and candidiate. Module 3.5.5 if statement inside the for loop.
         if (votes > winning_count) and (vote_percentage > winning_percentage): # Determines if the votes are greater than the winning count.
             winning_count = votes
