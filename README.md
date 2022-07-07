@@ -29,7 +29,7 @@ The analysis of the election show that:
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-The voter turnout for each county, percentage of votes from county out of the total count, and the county with the highest turnout are shown in the image below. This was accomplished using a for loop and conditional statements to print the results from the election_results.csv file provided. A text file is saved in the analysis folder as election_analysis.txt.
+-   The voter turnout for each county, percentage of votes from county out of the total count, and the county with the highest turnout are shown in the image below. -   This was accomplished using a for loop and conditional statements to print the results from the election_results.csv file provided. A text file is saved in the     analysis folder as election_analysis.txt.
 
 ![county_votes](https://github.com/pcar22/Election-Analysis/blob/main/Resources/county_votes.png)
 
